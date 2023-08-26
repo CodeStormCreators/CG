@@ -1,3 +1,10 @@
+/*Write C++ program to draw 2-D object and perform following basic transformations, 
+a)Scaling
+b) Translation 
+c) Rotation.
+Apply the concept of operator overloading.*/
+
+
 #include<iostream>
 #include<graphics.h>
 using namespace std;
