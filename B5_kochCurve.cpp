@@ -1,3 +1,5 @@
+/*c) Write C++ program to generate fractal patterns using koch curves.*/
+
 #include<iostream>
 #include<graphics.h>
 #include<math.h>
